@@ -1,0 +1,30 @@
+NAWILL IT SOLUTIONS
+
+Support info details
+
+Domain name: http://knowledgebeyond.net/
+
+Cpanel Login Details
+
+Username: knowledg
+Password: 31#yT2hjCRUc0.
+
+Control Panel URL: 
+http://www.knowledgebeyond.net:2083/
+
+URL to view all email address:
+https://cloud.tucana.ng:2083/cpsess2049421069/frontend/paper_lantern/email_accounts/index.html#/list
+
+Web mail login details
+
+info@knowledgebeyond.net Password: 8R=?k62kedS)
+Access url
+https://cloud.tucana.ng:2096/cpsess7376456328/3rdparty/roundcube/?_task=mail&_mbox=INBOX
+
+
+aderemi.adesokan@knowledgebeyond.net password: &+-z^k6+!cj#
+Access url 
+https://cloud.tucana.ng:2096/cpsess7376456328/3rdparty/roundcube/?_task=mail&_mbox=INBOX
+
+olawumi.adesokan@knowledgebeyond.net password: L5);~ID@5_=]
+access url: https://cloud.tucana.ng:2096/cpsess7376456328/3rdparty/roundcube/?_task=mail&_mbox=INBOX
